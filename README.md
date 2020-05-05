@@ -1,1 +1,2 @@
-# C35-Project
+# synchronousBallMovement
+Ball moving synchronously
